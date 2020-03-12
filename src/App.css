@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.courses {
+  display: flex;
+  justify-content: center;
+  align-content: space-around;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.box {
+  background: #f3f3f3;
+  padding-top: 7px;
+  padding-bottom: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #aaa;
+  width: auto;
+  height: auto;
+  margin: 0.5%;
+  margin-top: 15px;
+
+}
+
+.box:hover {
+  background: #a4a4a4;
+}
+
+.header {
+  height: 10%;
+  padding: 6px;
+  text-align: center;
+  background: #3d3d3d;
+  color: white;
+  font-size: 30px;
+}
+
+.searchheader {
+  height: 10%;
+  padding: 6px;
+  text-align: center;
+  background: #353535;
+  color: white;
+  font-size: 30px;
+}
+
+.search {
+  height: 24px;
+  font-size: 15px;
+  width: 35vw;
+  border: none;
+  border-radius: 5px;
+  padding: 3px;
+  font-family: "arial";
+}
+
+.title {
+  margin-bottom: -9px;
+  font-family: "Exo";
+  font-size: 30px;
+}
+
+@media screen and (max-width:420px) {
+  .search {
+    width: 70vw;
+  }
+}
