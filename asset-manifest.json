@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/UTDGrades/static/css/main.a69684bf.chunk.css",
+    "main.js": "/UTDGrades/static/js/main.99d6d7db.chunk.js",
+    "main.js.map": "/UTDGrades/static/js/main.99d6d7db.chunk.js.map",
+    "runtime-main.js": "/UTDGrades/static/js/runtime-main.6122ba86.js",
+    "runtime-main.js.map": "/UTDGrades/static/js/runtime-main.6122ba86.js.map",
+    "static/css/2.0624914a.chunk.css": "/UTDGrades/static/css/2.0624914a.chunk.css",
+    "static/js/2.c094f914.chunk.js": "/UTDGrades/static/js/2.c094f914.chunk.js",
+    "static/js/2.c094f914.chunk.js.map": "/UTDGrades/static/js/2.c094f914.chunk.js.map",
+    "index.html": "/UTDGrades/index.html",
+    "precache-manifest.7ba119f9367e6eb833de885e910f6216.js": "/UTDGrades/precache-manifest.7ba119f9367e6eb833de885e910f6216.js",
+    "service-worker.js": "/UTDGrades/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/UTDGrades/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.a69684bf.chunk.css.map": "/UTDGrades/static/css/main.a69684bf.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6122ba86.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.c094f914.chunk.js",
+    "static/css/main.a69684bf.chunk.css",
+    "static/js/main.99d6d7db.chunk.js"
+  ]
+}
